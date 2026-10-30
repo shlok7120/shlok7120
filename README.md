@@ -1,13 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-night.webp">
-  <img src="assets/hero-day.webp" alt="Car 75, a red and white race car, on the grid at Monaco" width="100%">
-</picture>
-
-# Shlok Patel
-
-**Computer Engineering student building full-stack systems and applied machine learning.**
+<img src="assets/hero-golden.webp" alt="Shlok Patel, driver 75, full-stack and applied ML. Computer Engineering student building full-stack systems and applied machine learning. A red and white race car at Monaco at golden hour." width="100%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shlok_Patel-0A66C2?style=flat-square)](https://www.linkedin.com/in/shlok-patel-028847367/)
 [![Email](https://img.shields.io/badge/Email-shlok7120.sp%40gmail.com-e10600?style=flat-square)](mailto:shlok7120.sp@gmail.com)
